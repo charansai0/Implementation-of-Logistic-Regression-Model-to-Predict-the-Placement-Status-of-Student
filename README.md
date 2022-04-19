@@ -74,7 +74,15 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-1[output]()
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/1.png?raw=true)
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/2.png?raw=true)
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/3.png?raw=true)
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/4.png?raw=true)
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/5.png?raw=true)
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/6.png?raw=true)
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/7.png?raw=true)
+![output](https://github.com/charansai0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/8.png?raw=true)
+
 
 
 ## Result:
